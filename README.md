@@ -5,16 +5,16 @@ Simple todo using the flux architecture with react and redux and a few more thin
 ### Instalation
 
 ```sh
-$git clone https://github.com/danillosl/todo-react-redux.git
-$cd react-redux-seed
-$npm install
-$npm start
+git clone https://github.com/danillosl/todo-react-redux.git
+cd react-redux-seed
+npm install
+npm start
 ```
 or
 ```sh
-$git clone https://github.com/danillosl/todo-react-redux.git
+git clone https://github.com/danillosl/todo-react-redux.git
 cd react-redux-seed
-$yarn install
-$yarn start
+yarn install
+yarn start
 ```
 The project should be available at: http://localhost:8080 .
