@@ -6,14 +6,14 @@ Simple todo using the flux architecture with react and redux and a few more thin
 
 ```sh
 git clone https://github.com/danillosl/todo-react-redux.git
-cd react-redux-seed
+cd todo-react-redux
 npm install
 npm start
 ```
 or
 ```sh
 git clone https://github.com/danillosl/todo-react-redux.git
-cd react-redux-seed
+cd todo-react-redux
 yarn install
 yarn start
 ```
